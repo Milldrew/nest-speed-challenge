@@ -1,0 +1,7 @@
+alias src="source ./aliases"
+alias gbev='./get_beverages.sh'
+alias pbev='./post_beverage.sh'
+alias pbevex='./post_beverage_extra.sh'
+alias pbevl='./post_beverage_less.sh'
+alias pchbev='./patch_beverage'
+alias dbev="./delete_beverage.sh"
