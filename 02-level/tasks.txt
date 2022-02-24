@@ -1,0 +1,17 @@
+Task 1: run docker locally and connect to it.
+Task 2: Add the TypeOrm Module and create a Type Orm Entity
+  - yarn add @nestj/typeorm typeorm pg
+  - configure typeorm module in app.module.ts (import typeorm module forRoot)
+  - @Entities @Column @Column('json', {nullable: true}) 
+  - beverage.module.ts import typeorm module feature beverage
+Task 3: Use the TypeOrm repository object to access data 
+  - @InjectRepository
+  - private readonly coffeeRepository: Repository<Beverage>
+ ============================================================
+Task 4: Create a relation between beverage and flavors
+Task 5: Retrieve entities with their relations
+Task 6: Using Cascading Inserts and Updates
+Task 7: Add Pagination
+Task 8: Use Transactions
+Task 9: Add indexes to entities
+Task 10: Set up a migration

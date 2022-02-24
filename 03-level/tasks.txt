@@ -1,0 +1,7 @@
+Task 1: Create a relation between beverage and flavors
+Task 2: Retrieve entities with their relations
+Task 3: Using Cascading Inserts and Updates
+Task 4: Add Pagination
+Task 5: Use Transactions
+Task 6: Add indexes to entities
+Task 7: Set up a migration
