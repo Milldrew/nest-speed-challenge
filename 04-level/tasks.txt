@@ -1,0 +1,4 @@
+Task 1: Add Pagination
+Task 2: Use Transactions
+Task 3: Add indexes to entities
+Task 4: Set up a migration
