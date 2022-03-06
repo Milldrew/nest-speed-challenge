@@ -19,3 +19,4 @@ Task 8: Use Transactions
 Task 9: Add indexes to entities
 <br/>
 Task 10: Set up a migration
+test
