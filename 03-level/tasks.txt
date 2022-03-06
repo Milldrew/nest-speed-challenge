@@ -2,3 +2,6 @@ Task 1: Create a relation between beverage and flavors
 Task 2: Retrieve entities with their relations
 Task 3: Using Cascading Inserts and Updates
 Task 4: Add Pagination
+   transformOptions enable Implict skip take 
+Task 5: Add an index for flavors name.
+
